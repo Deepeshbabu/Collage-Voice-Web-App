@@ -1,0 +1,30 @@
+h1 
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+#resultShow 
+{
+    margin: 10px;
+    box-shadow: 5px 10px;
+}
+
+#r1 
+{
+    border-radius: 20px;
+    box-shadow: 5px 10px;
+}
+
+#r2 
+{
+    border-radius: 20px;
+    box-shadow: 5px 10px;
+}
+
+#r3 
+{
+    border-radius: 20px;
+    box-shadow: 5px 10px;
+}
